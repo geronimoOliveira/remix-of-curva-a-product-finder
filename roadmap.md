@@ -1,0 +1,2 @@
+- [x] Trocar a busca Mercado Livre por Apify e validar com uma busca real (48 produtos).
+- [x] Adicionar pop-up de chave Apify sem guardar a chave no navegador.
